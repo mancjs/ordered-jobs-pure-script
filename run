@@ -1,0 +1,2 @@
+#!/bin/bash
+psc jobs.purs --output jobs.js --main=Main && node jobs.js
